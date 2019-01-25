@@ -1,0 +1,11 @@
+'''
+Add at least 2 examples to the docstring and complete the function.
+'''
+
+def all_fluffy(s):
+    ''' (str) -> bool
+    Return True if every letter in s appears in the word 'fluffy'
+    '''
+
+if all_fluffy("fluffy"):
+    print("Word is fluffy!")

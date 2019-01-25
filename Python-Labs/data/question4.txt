@@ -1,0 +1,9 @@
+import math
+
+def print_square_roots(n):
+    '''
+    Design and implement function print_square_roots(), which prints the square root of 
+    the first n positive numbers, starting at 1.
+    '''
+
+print_square_roots(25)

@@ -1,0 +1,11 @@
+def has_vowel(s):
+    """(str) -> bool
+    Return True if and only if s has at least one vowel, not including y.
+    >>> has_vowel("Anniversary")
+    True
+    >>> has_vowel("xyz")
+    False
+    """
+
+if(has_vowel("Anniversary")):
+    print("Has a vowel!")

@@ -1,0 +1,8 @@
+def add_underscores(s):
+    """(str) -> str
+
+    Return s with an underscore between each pair of characters
+    # TODO: add at least two examples
+    """
+
+print(add_underscores("Example"))

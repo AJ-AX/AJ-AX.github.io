@@ -1,0 +1,5 @@
+'''
+Fully design and write a function that given a list of temperatures,
+returns a new list containing the min temp, the max temp, and the average temp.
+Iterate over the original list one time only.
+'''

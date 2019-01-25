@@ -1,0 +1,18 @@
+'''
+Define and Implement a function that prints the first parameter n numbers starting from one.
+Then, repeat the process, but in reverse.
+
+This problem is technically supposed to be solved with while loops, but for loops work better.
+'''
+
+def print_first_n(n):
+        for i in range(1, n):
+                print(str(i))
+
+def print_first_n_reverse(n):
+        for i in range(0, n):
+                print(str(n-i))
+
+
+print_first_n(10)
+print_first_n_reverse(10)

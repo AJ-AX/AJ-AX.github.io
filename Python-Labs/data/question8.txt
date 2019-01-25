@@ -1,0 +1,16 @@
+def digital_sum(nums_list):
+    """ (list of str) -> int
+       
+    Precondition: s.isdigit() holds for each string s
+    in nums_list.
+    Return the sum of all the digits
+    in all strings in nums_list.
+    >>> digital_sum(['64', '128', '256'])
+    34
+    >>> digital_sum(['12', '3'])
+    # TODO: fill in the expected return of this example call.
+    """
+
+
+
+print(str(digital_sum(['64', '128', '256'])))

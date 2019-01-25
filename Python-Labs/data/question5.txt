@@ -1,0 +1,11 @@
+'''
+Define and Implement a function that prints the first parameter n numbers starting from one.
+Then, repeat the process, but in reverse.
+'''
+
+def print_first_n(n):
+
+def print_first_n_reverse(n):
+
+print_first_n(10)
+print_first_n_reverse(10)

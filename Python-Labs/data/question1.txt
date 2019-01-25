@@ -1,0 +1,12 @@
+def every_nth_character(s, n):
+    """ (str, int) -> str
+    Return every nth character in s starting at index 0.
+    >>> every_nth_character('Computer Science', 3)
+    'CpeSee'
+    """
+    result = ''
+    i = 0
+    # TODO add the rest of the code here
+    return result
+
+print(every_nth_character('Computer Science', 3))
