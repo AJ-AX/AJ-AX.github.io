@@ -62,6 +62,7 @@ var a_data = [];
 
 function load_all() {
     for (var sd = 0; sd < data.length; sd++) {
+        console.log(data[sd].question);
         $.get(data[sd].question, function (data) {
             q_data.push(data);
         }, 'text');
